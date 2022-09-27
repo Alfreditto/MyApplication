@@ -1,4 +1,4 @@
-git initpackage com.example.myapplication
+package com.example.myapplication
 
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar
